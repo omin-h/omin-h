@@ -19,8 +19,3 @@ Explore my skills across different technologies:
 <p align="center">
   Let's connect and build amazing things together! 🚀
 </p>
-
-<p align="center">
-  <a href="www.linkedin.com/in/ominhemapriya"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://www.instagram.com/omin_h/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
-</p>
