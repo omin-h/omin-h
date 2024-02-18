@@ -14,11 +14,6 @@ Explore my skills across different technologies:
 - Full Stack: ![Express](https://skills.thijs.gg/icons?i=express) ![React](https://skills.thijs.gg/icons?i=react) ![Node.js](https://skills.thijs.gg/icons?i=nodejs)</br>
 - Tools: ![Visual Studio](https://skills.thijs.gg/icons?i=visualstudio) ![VS Code](https://skills.thijs.gg/icons?i=vscode) ![Android Studio](https://skills.thijs.gg/icons?i=androidstudio) ![Git](https://skills.thijs.gg/icons?i=git) ![Figma](https://skills.thijs.gg/icons?i=figma) ![Eclipse](https://skills.thijs.gg/icons?i=eclipse) ![Postman](https://skills.thijs.gg/icons?i=postman) 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omin&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dunalpasindu&theme=highcontrast&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dunalpasindu&theme=highcontrast&layout=compact)
-
 ---
 
 <p align="center">
