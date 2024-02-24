@@ -4,7 +4,8 @@
 
 
 ## 💫 About Me
-I am a passionate Full Stack Developer based in Colombo, Sri Lanka. Currently pursuing a BSc (Hons.) in Information Technology at Sri Lanka Institute of Information Technology (SLIIT).
+I am a passionate Full Stack Developer based in Colombo, Sri Lanka. Currently pursuing a BSc (Hons) in Information Technology
+Specialising in Information Technology at Sri Lanka Institute of Information Technology (SLIIT).
 
 ## 💻 Tech Stack
 Explore my skills across different technologies:
