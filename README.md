@@ -9,5 +9,5 @@ Specialising in Information Technology at Sri Lanka Institute of Information Tec
 
 
 <p align="center">
-  Let's connect and build amazing things together! 🚀
+  #Let's connect and build amazing things together! 🚀
 </p>
