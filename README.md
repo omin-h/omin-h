@@ -8,7 +8,7 @@ I am a passionate Full Stack Developer based in Colombo, Sri Lanka. Currently pu
 Specialising in Information Technology at Sri Lanka Institute of Information Technology (SLIIT).
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Vishwa-ud&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=omin-h&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vishwa-ud&theme=highcontrast&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-ud&theme=highcontrast&layout=compact)
 
