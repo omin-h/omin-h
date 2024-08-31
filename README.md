@@ -9,8 +9,8 @@ Specialising in Information Technology at Sri Lanka Institute of Information Tec
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=omin-h&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vishwa-ud&theme=highcontrast&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-ud&theme=highcontrast&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=omin-h&theme=highcontrast&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omin-h&theme=highcontrast&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
