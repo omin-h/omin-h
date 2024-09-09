@@ -14,7 +14,6 @@ Specialising in Information Technology at Sri Lanka Institute of Information Tec
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
-[![](https://visitcount.itsvg.in/api?id=omin-h&icon=5&color=6)](https://visitcount.itsvg.in)
 
 
 <p align="center">
