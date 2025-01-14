@@ -5,7 +5,7 @@
 
 ## 💫 About Me
 I am a passionate Full Stack Developer based in Colombo, Sri Lanka. Currently pursuing a BSc (Hons) in Information Technology
-Specialising in Information Technology at Sri Lanka Institute of Information Technology (SLIIT).
+Specializing in Information Technology at Sri Lanka Institute of Information Technology (SLIIT).
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=omin-h&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
